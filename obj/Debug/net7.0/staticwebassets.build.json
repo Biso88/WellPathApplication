@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tGMGFmma6Kt4C83miTHyp3pXKFBr2ZUK0boDj85XMcU=",
+  "Source": "BookBuddy-backend",
+  "BasePath": "_content/BookBuddy-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

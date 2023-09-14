@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookBuddy-backend.props" />
+</Project>
